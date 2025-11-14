@@ -142,6 +142,9 @@ export default function DocsPage() {
             <p className="text-lg mb-6 opacity-90">
               Our team is here to help you succeed.
             </p>
+            <p className="text-xl mb-6 font-semibold">
+              📧 kondurivarun09@gmail.com
+            </p>
             <a 
               href="mailto:kondurivarun09@gmail.com" 
               className="inline-flex items-center gap-2 px-6 py-3 bg-white text-indigo-600 rounded-lg font-semibold hover:bg-gray-100 transition-colors"
